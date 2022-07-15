@@ -1,0 +1,20 @@
+.body {
+    background-image: url(https://i.pinimg.com/originals/62/52/60/625260c34f1a518fe056ea417f9ff836.jpg);
+    text-align: center;
+    color: aliceblue;
+}
+
+.img {
+    border-radius: 50%;
+}
+
+.contenedor {
+    text-align: center;
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/8d82b750054805.560873b59cfc1.png);
+    height: 600px;
+    width: 450px;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
